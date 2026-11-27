@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1] - 2026-11-27
+
+### Changed
+
+- Rollback drill: display current product prices with Latin digits.
+
 ## [1.0.0] - 2026-11-27
 
 ### Added
