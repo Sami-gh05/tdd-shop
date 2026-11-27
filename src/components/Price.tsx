@@ -18,7 +18,7 @@ export default function Price({ value, offerPercent }: PriceProps) {
             )}
             <p className="current-price">
                 {hasOffer ? 'قیمت با تخفیف: ' : 'قیمت: '}
-                <strong>{finalPrice.toLocaleString('en-US')}</strong> تومان
+                <strong>{finalPrice.toLocaleString('fa-IR')}</strong> تومان
             </p>
         </div>
     )
