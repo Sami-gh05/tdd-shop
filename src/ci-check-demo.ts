@@ -1,1 +1,1 @@
-export const ciCheckDemo: number = 'intentional failure'
+export const ciCheckDemo: number = 1
